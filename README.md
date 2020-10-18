@@ -6,8 +6,6 @@ Youtube Demonstration: https://youtu.be/Z1HGJux7lb4
 
 Pictures Link: https://drive.google.com/drive/folders/1CbhJcEJ8EC9QL585qkeUlkf-86gesy5V?usp=sharing
 
-Price: approximately $130 
-
 This project consists on two potions. Portion one the car and the glove.
 
 The car:
