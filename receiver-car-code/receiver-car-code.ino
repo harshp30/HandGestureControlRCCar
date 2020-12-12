@@ -1,24 +1,16 @@
-//Mert Arduino and Tech YouTube Channel -- https://goo.gl/ivcZhW
 
-//Add the necessary libraries
-//You can find all the necessary library links in the video description
-#include <SPI.h>      //SPI library for communicate with the nRF24L01+
-#include "RF24.h"     //The main library of the nRF24L01+
+#include <SPI.h>     
+#include "RF24.h"     
 
 //Define enable pins of the Motors
 const int enbA = 3;
 const int enbB = 5;
 
-//Define control pins of the Motors
-//If the motors rotate in the opposite direction, you can change the positions of the following pin numbers
 const int IN1 = 2;    //Right Motor (-)
 const int IN2 = 4;    //Right Motor (+)
 const int IN3 = 7;    //Left Motor (+)
 const int IN4 = 6;    //Right Motor (-)
 
-//Define variable for the motors speeds
-//I have defined a variable for each of the two motors 
-//This way you can synchronize the rotation speed difference between the two motors
 int RightSpd = 130;
 int LeftSpd = 150;
 
