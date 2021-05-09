@@ -2,7 +2,7 @@
 
 July 2020
  
-Inspired by: https://www.youtube.com/watch?v=RTJ33EWmTRI&list=LL&index=116 
+Tutorial by: https://www.youtube.com/watch?v=RTJ33EWmTRI&list=LL&index=116 
  
 Youtube Demonstration: https://youtu.be/Z1HGJux7lb4
  
